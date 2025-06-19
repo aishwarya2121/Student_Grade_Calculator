@@ -35,19 +35,19 @@ Swing (javax.swing) – GUI components (JTextField, JLabel, JButton, JTextArea, 
 AWT (java.awt) – Layout management (GridLayout)
 
 # How It Works
-Enter a student's name and 3 marks.
+1. Enter a student's name and 3 marks.
 
-Click "Add Student".
+2. Click "Add Student".
 
-After adding 4 students, a new window appears displaying:
+3. After adding 4 students, a new window appears displaying:
 
-Student Name
+4. Student Name
 
-Total Marks
+5. Total Marks
 
-Average Score
+6. Average Score
 
-Assigned Grade
+7. Assigned Grade
 
 # output
 
