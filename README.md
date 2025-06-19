@@ -51,3 +51,6 @@ AWT (java.awt) – Layout management (GridLayout)
 
 # output
 
+![Image](https://github.com/user-attachments/assets/7a75a195-918a-4691-8a49-db6a2c9fc12d)
+
+
